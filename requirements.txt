@@ -1,0 +1,8 @@
+#requirements.txt
+
+# 🧩 SmolAgent Studio dependencies
+smolagents>=0.1.21
+gradio>=4.0.0
+python-dotenv>=1.0.0
+
+#🧪 You can install with pip install -r requirements.txt
